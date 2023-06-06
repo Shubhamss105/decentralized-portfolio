@@ -4,7 +4,7 @@ Installation
 To run the decentralized portfolio website on your local machine, follow these steps:
 
 1.Clone the repository:
-git clone https://github.com/your-username/portfolio-website.git
+git clone https://github.com/Shubhamss105/decentralized-portfolio.git
 
 
 2.Navigate to the project directory:
