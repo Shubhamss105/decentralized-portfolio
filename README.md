@@ -3,27 +3,22 @@ This is a decentralized portfolio website built using React.js, Web3.js, Solidit
 Installation
 To run the decentralized portfolio website on your local machine, follow these steps:
 
-Clone the repository:
+1.Clone the repository:
+git clone https://github.com/your-username/portfolio-website.git
 
-shell
-Copy code
-git clone https://github.com/Shubhamss105/decentralized-portfolio.git
-Navigate to the project directory:
 
-shell
-Copy code
+2.Navigate to the project directory:
 cd decentralized-portfolio
-Install the required Node.js packages:
 
-shell
-Copy code
+
+3.Install the required Node.js packages:
 npm install
-Usage
-Start the development server:
 
-shell
-Copy code
+
+4.Start the development server:
 npm start
+
+
 This command will start the development server and open the website in your default browser. Any changes you make to the code will automatically update the website.
 
 Connect Metamask:
